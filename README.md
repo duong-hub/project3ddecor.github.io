@@ -1,2 +1,2 @@
-# https://github.com/duong-hub/project3ddecor.github.io
+# https://duong-hub.github.io/project3ddecor.github.io
 My personal website
